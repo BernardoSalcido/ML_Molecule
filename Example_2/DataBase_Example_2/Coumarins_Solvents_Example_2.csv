@@ -1,0 +1,59 @@
+﻿Name,Smile
+acetonitrile,CC#N
+dimethyl sulfoxide,CS(C)=O
+propylene carbonate,CC1COC(=O)O1
+dimethylformamide,CN(C)C=O
+nitromethane,C[N+]([O-])=O
+acetone,CC(C)=O
+HMPA,CN(C)P(=O)(N(C)C)N(C)C
+DMC,COC(=O)OC
+methyl acetate,COC(C)=O
+cyclohexanone,O=C1CCCCC1
+ethyl acetate,CCOC(C)=O
+tetrahydrofuran,C1CCOC1
+"1,4-dioxane",C1COCCO1
+dichloromethane,ClCCl
+1 -chlorobutane,CCCCCl
+diethyl ether,CCOCC
+chloroform,[H]C(Cl)(Cl)Cl
+2-methylbutane,CCC(C)C
+cyclohexane,C1CCCCC1
+methanol,CO
+ethanol,CCO
+1 -propanol,CCCO
+2-propanol,CC(C)O
+1-butanol,CCCCO
+ethylene glycol,OCCO
+formamide,NC=O
+benzyl alcohol,OCC1=CC=CC=C1
+benzonitrile,N#CC1=CC=CC=C1
+benzene,C1=CC=CC=C1
+"1,4-xylene",CC1=CC=C(C)C=C1
+hexafluorobenzene,FC1=C(F)C(F)=C(F)C(F)=C1F
+toluene,CC1=CC=CC=C1
+hexane,CCCCCC
+water,O
+1-hexanol,CCCCCCO
+carbon tetrachloride,ClC(Cl)(Cl)Cl
+heptane,CCCCCCC
+2-methoxyethanol,COCCO
+n-butyl acetate,CCCCOC(C)=O
+ethyl benzoate,CCOC(=O)C1=CC=CC=C1
+decanol,CCCCCCCCCCO
+octanol,CCCCCCCCO
+1-heptanol,CCCCCCCO
+isopropanol,CC(C)O
+trichloroethane,CC(Cl)(Cl)Cl
+dichloroethane,CC(Cl)Cl
+methyl cyclohexane,CC1CCCCC1
+decalin,C1CCC2CCCCC2C1
+n-butyl ether,CCCCOCCCC
+tert-butanol,CC(C)(C)O
+isobutanol,CC(C)CO
+1-pentanol,CCCCCO
+pentane,CCCCC
+1-propanol,CCCO
+pyridine,C1=CC=NC=C1
+tetrachloroethane,ClC(Cl)C(Cl)Cl
+p-xylene,CC1=CC=C(C)C=C1
+ethyl propionate,CCOC(=O)CC
